@@ -16,6 +16,9 @@ This is a simple example project about React Native x Redux x Redux Saga (Middle
 - [x] Redux
 - [ ] Redux Saga (middleware)
 
+## Credits
+- [Tutorial by article](http://rants.broonix.ca/getting-started-with-react-native-and-redux/)
+
 ## Feel free discussion about some projects with me
 - Email: [garrylaly@gmail.com](mailto:garrylaly@gmail.com)
 - Skype Id: garry.priambudi
